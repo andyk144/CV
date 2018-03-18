@@ -42,6 +42,7 @@ Responsible for the day to day management of a team of eleven staff. Providing m
 **RBS Insurance** (November 2004 to March 2007)   
 *Insurance Claims Consultant*
 Responsible for validating, negotiating and settling home insurance claims.
+
 **Barclays Bank** (January 2000 to October 2003)
 *Personal Banking Consultant*
 Responsible for maintaining and building Barclays customer base through product promotion and sales.
