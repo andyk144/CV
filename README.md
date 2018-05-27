@@ -55,3 +55,17 @@ Working on a major accounting software company client, I was responsible for the
 - Courses in Micro and Macroeconomics, labour market economics, Spanish language
 - Awarded 1st for economics dissertation
 - Spent a year studying in Spain with the Erasmus programme, where I became fluent in Spanish
+
+## Interests
+
+#### Chatbots
+
+I am passionate about the power of chatbots to revolutionize the way consumers interact with companies. I enjoy learning how to build bots from scratch using JavaScript with natural language processing (NLP) and machine learning from [Dialogflow](https://dialogflow.com/). I am also part of the [official Facebook Messenger Developers Community](https://www.facebook.com/groups/messengerplatform/?fref=nf)
+
+#### Tech industry
+
+The consumer tech industry has always excited me as it is so fast-paced and constantly evolving. I stay up to date with the latest industry news mainly through podcasts such as [TWiT](https://twit.tv/shows/this-week-in-tech) and [The Vergecast](https://www.theverge.com/the-vergecast).
+
+#### Gaming
+
+I enjoy playing RPGs and FPS games like Dark Souls, The Witcher, Battlefield and Overwatch.
