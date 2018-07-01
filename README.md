@@ -1,38 +1,52 @@
-# Louis Moselhi
+# Andrew Kemp
 
-[PROJECTS](#projects) | [SKILLS](#skills) | [EXPERIENCE](#experience) | [EDUCATION](#education)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Personal Interests](#personal interests) | [Networks](#networks)
 
-I'm a full-stack software developer with a passion for cutting edge technology and an unquenchable thirst for knowledge. I have a particular interest in bots and automation. I am studying at Makers Academy, an intensive coding bootcamp in London, growing not just my technical skills, but also my teamwork and communication skills. I am looking for a full stack or front-end role where I can apply and grow my skillset while having fun with my team.
+I'm a full-stack software developer with a passion for cutting edge technology and a thirst for knowledge and self-improvement. I recently completed an intensive coding bootcamp at Makers in London. During the 16 week course, I developed my technical skills, teamwork and communication skills. I particularly enjoyed coding in an environment where the focus was developing a best-practice approach.
 
- ## Projects
+I am looking for a role where I can apply and grow my skillset whilst working as part of a dynamic team.
+
+## Projects
+
+During my time at Makers, I worked on many projects, both independently and in pairs/teams. The projects below are the ones I'm most proud of, and I believe they showcase the progress I have made throughout the Makers course.
+
  | Project       | Summary       | Technologies  | Testing |
  | ------------- |---------------| --------------|---------|
- | 1. Boris Bikes ([Discover More](https://github.com/Mozl/boris_bikes)) | My first week of coding at Makers Academy. Compare it to other projects to see how far I've come. |Ruby | RSpec |
- | 2. Oyster Card ([Discover More](https://github.com/Mozl/oyster-card))|Ever wondered what it would be like to travel around London without anyone else around? Now you can!...well, via the CLI at least! | Ruby | RSpec |
- | 3. Thermostat ([Discover More](https://github.com/Mozl/thermostat))| Made in my 1st week of learning JavaScript. Uses JS logic, jQuery animation and live weather from an API | Javascript, jQuery, HTML/CSS, OpenWeatherAPI | Jasmine |
- | 4. Acebook ([Discover More](https://acebook-byte-2.herokuapp.com))|4 devs. 2 weeks. Rebuild a website with over 2 billion users. Bonus: Don't sell personal user data. Challenge accepted!|Ruby on Rails, Bootstrap|RSpec|
- |5. Final Project ([Discover More](INSERT URL)|Whatever it will be, it's going to be LEGEN....wait for it....DARY!)|Cool tech and stuff|TDD n ting|
+ | [MixMakers](https://github.com/andyk144/MixMakers) | An iOS app to help people discover cocktails based on ingredients they have. Final project at Makers. Team project. | Xcode, Swift, TheCocktailDB API | Quick, Nimble, FBSnapshot |
+ | [Instogram](https://github.com/andyk144/instagram-challenge) | An Instagram-clone app which allows the user to add and delete images, post comments and like images. Individual weekend challenge. | Ruby on Rails, HTML, CSS | RSpec |
+ | [Thermostat](https://github.com/andyk144/thermostat) | A simple thermostat app built during my 1st week of learning JavaScript. It links to a weather API and allows users to check the weather in cities of their choice. Pairing challenge | Javascript, jQuery, Node.js, Express, HTML/CSS, OpenWeatherAPI | Jasmine |
+ | [Bank tech test](https://github.com/andyk144/bank) | Object oriented, test driven tech test, simulating banking transactions. Completed as part of week 10 at Makers. Individual challenge. | Ruby | Rspec |
+ | [Airport challenge](https://github.com/andyk144/airport_challenge) | A command line airport simulation app. Built as part of my first weekend challenge at Makers. Individual weekend challenge. | Ruby | RSpec |
 
 ## Experience
 
-#### Student at [Makers Academy](https://www.makersacademy.com/)
+#### Student at [Makers](https://makers.tech/)
 
-At Makers I learned a mix of technical and soft skills. My work has mainly centred around Ruby and Javascript projects, moving from simple CLI apps to full stack apps hosted on Heroku. At every step I have focused on TDD and XP values, ensuring I maintain high code quality and work seamlessly with other people. When working in a team I ensured we employed the Agile methodology for rapid continuous improvement.
+At Makers I learned a mix of technical and soft skills. My work has mainly centred around Ruby and Javascript projects, moving from simple CLI apps to full stack apps hosted on Heroku. Every step of the way, I have focused on TDD and XP values, ensuring I maintain high code quality and work seamlessly with other people. Whilst working as part of a team I ensured we employed the Agile methodology for rapid continuous improvement.
 
-Key skills: software craftsmanship, communication, problem solving, fast learning
+**Key skills:** software craftsmanship, communication, problem solving, fast learning
 
-#### Digital Marketing Executive at [Pulsar](https://www.pulsarplatform.com/)
+#### Commercial Claims Team Leader at [LV=](https://www.lv.com/)
 
-As one half of the marketing department, I was responsible for the successful running of marketing operations such as Google AdWords and Display ads, content creation and managing Hubspot CRM. This included building bespoke, targeted landing pages and creating Pulsar's first email automation function. I was always working towards leads and revenue targets, generating more than £125k from Google advertising alone.
+As Commercial Claims team leader, I was responsible for the day to day management of a team of 11 Commercial Claims handlers. This included motivating and guiding the team, alongside driving individual development for each team member through personally tailored plans. As part of this role I was responsible for system improvement, which required me to work closely with the in-house dev team. My tasks, in this respect, included making requests, seeking senior management approval, testing and overseeing the implementation of changes.
 
-**Key transferrable skills:** Teamwork, stakeholder and dev team management
+**Key transferrable skills:** teamwork, communication, decision making, stakeholder and dev team management
 
-#### Paid Search Account Executive at [Neo@Ogilvy](https://www.neoogilvy.co.uk/)
+#### Commercial Claims Handler at [LV=](https://www.lv.com/)
 
-Working on a major accounting software company client, I was responsible for the daily budget management and optimisation of a £15 million Google AdWords account. This involved data analysis, DoubleClick floodlight tag management and campaign strategy. I formed a strong relationship with my clients, ensuring good communication and providing in-depth reports on campaign performance.
+Responsible for validating, negotiating and settling Commercial claims up to the value of £125k. in addition to claims handling, I was responsible for producing a monthly claims reports for a number of key brokers, which involved a large volume of data analysis to highlight any key trends.
+
+I also led relationship development with a number of key insurance brokers and Commercial loss adjusters.
 
 **Key transferrable skills:** data analysis, client relationship management, communication
 
+#### Home Claims Handler at [RBS](https://personal.rbs.co.uk/personal/insurance/home-insurance.html)
+
+Responsible for validating, negotiating and settling Commercial claims up to the value of £10k. This involved constant communication with customers to manage claims through to a satisfactory conclusion for all parties, which often involved explaining complicated insurance terminology/conditions to customers in a way they could fully understand.
+
+On occasions, this role involved complaint handling which involved keeping calm under pressure and elements of problem solving to find amicable solutions.
+
+**Key transferable skills:** communication, problem solving
 
 ## Education
 
@@ -49,23 +63,21 @@ Working on a major accounting software company client, I was responsible for the
 - Databases - PostgreSQL, MongoDB
 - Deployment - Heroku, TravisCI, Docker
 
-#### University of Aberdeen (Sep 2009 - July 2014)
+## Personal Interests
 
-- MA (Hons) 2:1 Economics - Hispanic Studies
-- Courses in Micro and Macroeconomics, labour market economics, Spanish language
-- Awarded 1st for economics dissertation
-- Spent a year studying in Spain with the Erasmus programme, where I became fluent in Spanish
+I enjoy participating in a variety of sports, in particular football, where I have been part of a number of successful teams.
 
-## Interests
+I like to travel and experience different cultures, food and traditions. In 2016, I spent three months travelling around America.  
 
-#### Chatbots
+I am a keen cyclist. Having completed the 2017 British Heart Foundation London to Brighton bike ride, I'm actively seeking my next challenge.  
 
-I am passionate about the power of chatbots to revolutionize the way consumers interact with companies. I enjoy learning how to build bots from scratch using JavaScript with natural language processing (NLP) and machine learning from [Dialogflow](https://dialogflow.com/). I am also part of the [official Facebook Messenger Developers Community](https://www.facebook.com/groups/messengerplatform/?fref=nf)
+## Networks
+<p align="center">
 
-#### Tech industry
+<a href="https://medium.com/@andyk_5">
+<img src="/images/medium.png?format=300w" alt="medium" hspace="50" height="42" width="42"></a>
 
-The consumer tech industry has always excited me as it is so fast-paced and constantly evolving. I stay up to date with the latest industry news mainly through podcasts such as [TWiT](https://twit.tv/shows/this-week-in-tech) and [The Vergecast](https://www.theverge.com/the-vergecast).
+<a href="https://www.linkedin.com/in/andrew-kemp/">
+<img src="/images/linkedin.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
-#### Gaming
-
-I enjoy playing RPGs and FPS games like Dark Souls, The Witcher, Battlefield and Overwatch.
+</p>
