@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Personal Interests](#personal-interests) | [Networks](#networks)
 
-I'm a full-stack software developer with a passion for cutting edge technology and a thirst for knowledge and self-improvement. I recently completed an intensive coding bootcamp at Makers in London. During the 16 week course, I developed my technical skills, teamwork and communication skills. I particularly enjoyed coding in an environment where the focus was developing a best-practice approach.
+I'm a full-stack software developer with a passion for cutting edge technology and a thirst for knowledge and self-improvement. I recently completed an intensive coding bootcamp at Makers in London. During the 16 week course, I developed my technical, teamwork and communication skills. I particularly enjoyed coding in an environment where the focus was developing a best-practice approach.
 
 I am looking for a role where I can apply and grow my skillset whilst working as part of a dynamic team.
 
