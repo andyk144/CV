@@ -13,10 +13,19 @@ During my time at Makers, I worked on many projects, both independently and in p
  | Project       | Summary       | Technologies  | Testing |
  | ------------- |---------------| --------------|---------|
  | [MixMakers](https://github.com/andyk144/MixMakers) | An iOS app to help people discover cocktails based on ingredients they have. Final project at Makers. Team project. | Xcode, Swift, TheCocktailDB API | Quick, Nimble, FBSnapshot |
- | [Instogram](https://github.com/andyk144/instagram-challenge) | An Instagram-clone app which allows the user to add and delete images, post comments and like images. Individual weekend challenge. | Ruby on Rails, HTML, CSS | RSpec |
+ | [Instogram](https://github.com/andyk144/instagram-challenge) | An Instagram-clone app which allows the user to add and delete images, post comments and like images. Individual weekend challenge. | Ruby on Rails, Postgres, w/ ActiveRecord, Devise, HTML, CSS | RSpec, Capybara |
  | [Thermostat](https://github.com/andyk144/thermostat) | A simple thermostat app built during my 1st week of learning JavaScript. It links to a weather API and allows users to check the weather in cities of their choice. Pairing challenge | Javascript, jQuery, Node.js, Express, HTML/CSS, OpenWeatherAPI | Jasmine |
  | [Bank tech test](https://github.com/andyk144/bank) | Object oriented, test driven tech test, simulating banking transactions. Completed as part of week 10 at Makers. Individual challenge. | Ruby | Rspec |
  | [Airport challenge](https://github.com/andyk144/airport_challenge) | A command line airport simulation app. Built as part of my first weekend challenge at Makers. Individual weekend challenge. | Ruby | RSpec |
+
+## Skills
+
+- Core Technologies: Ruby, Rails, JavaScript, Node.js, Express, Sinatra, Swift, Xcode, HTML, SASS, CSS
+- Testing technologies: RSpec, Capybara, Jasmine, Quick, Nimble, FBSnapshot
+- Databases: PostgreSQL, ActiveRecord, TablePlus, MongoDB
+- Deployment: Docker, Heroku, TravisCI
+- Version Control: Git, Github
+- APIs, Packages, Other: Twitter API, Twilio API, OpenWeather API, TheCocktailDB API, jQuery, OAuth, Devise
 
 ## Experience
 
@@ -50,18 +59,16 @@ On occasions, this role involved complaint handling which involved keeping calm 
 
 ## Education
 
-#### Makers Academy (March - June 2018)
+#### Makers Academy (March 2018 - June 2018)
 
-- Ruby and JavaScript - including Node, Express, Rails, jQuery, Sinatra
-- Test-driven development (TDD) - RSpec, Jasmine, Cypress, Capybara
-- Agile working
-- Pair programming
-- Git workflow
+Makers Academy is one of Europe's leading and most selective development bootcamps, a 16-week intensive course focusing on:
+
+- Software Craftsmanship
+- Agile Methodologies
+- Object-oriented Design
+- Behaviour and Test Driven Development
+- Pair Programming
 - XP Values
-- React
-- HTML, CSS, Bootstrap
-- Databases - PostgreSQL, MongoDB
-- Deployment - Heroku, TravisCI, Docker
 
 ## Personal Interests
 
